@@ -4,8 +4,8 @@ PolyMC Litematica + Optifine dowload
 Need Support/have a Question? Contact me on discord: DaPelikaan.exe#4431
 ## Version links
 1.16.5	| [Download Here](https://github.com/DaPelikaanExe/Terus-Litematica/releases/download/1.16.5/1.16.5.Litematica.-.Optifine.zip)  
-1.17.1	| [Download Here](bit.ly/3bCpou7)  
-1.18.2	| [Download Here](bit.ly/3R7qi2a)  
+1.17.1	| [Download Here](https://github.com/DaPelikaanExe/Terus-Litematica/releases/download/1.17.1/1.17.1.Litematica.-.Optifine.zip)  
+1.18.2	| [Download Here](https://github.com/DaPelikaanExe/Terus-Litematica/releases/download/1.18.2/1.18.2.Litematica.-.Optifine.zip)  
 ## How to install?
 1. Download a package from the links above.
 2. Open PolyMC launcher
