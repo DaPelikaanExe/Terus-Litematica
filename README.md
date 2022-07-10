@@ -18,7 +18,8 @@ PolyMC: https://polymc.org
 6. Click "Ok"
 ## Mod Credits
 *We do not own the rights on any of the mods our packs contain, please visit the pages of the mod owners!*
-- Litematica: 	https://github.com/maruohon
+- Litematica: 	https://github.com/maruohon (1.16.5-1.18.2)
+- Litematica: 	https://kosma.pl/masamods/ (1.19)
 - Malilib:			https://github.com/maruohon
 - Fabric API:	https://www.curseforge.com/minecraft/mc-mods/fabric-api
 - Mod Menu:	https://www.curseforge.com/minecraft/mc-mods/modmenu
